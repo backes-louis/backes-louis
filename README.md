@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋,
 
-<!--
-**backes-louis/backes-louis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Lou, and I am currently studying at the University of Luxembourg. 
+#### Studying in the applied Informatics branch.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=backes-louis&count_private=true&show_icons=true&theme=synthwave)
+](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=backes-louis)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+- 🔭 I’m currently working on improving my overall OOP language comprehension
+- 🌱 I’m currently learning Web development full stack  
+
